@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/khudhurayaz/](https://github.com/khudhurayaz/)
 
-- 💬 Ask me about **Java, C++**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **ayazkhudhur2021@gmail.com**
 
