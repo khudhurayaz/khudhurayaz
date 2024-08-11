@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khudhurayaz</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🔭 I’m currently working on [todoapp](https://github.com/khudhurayaz/todoapp)
+- 🔭 I’m currently working on [2DGame]((https://github.com/khudhurayaz/2DGame))
 
 - 🌱 I’m currently learning **Flutter, C and Vue**
 
